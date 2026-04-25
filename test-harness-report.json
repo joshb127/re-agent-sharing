@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-04-18T22:07:45.314Z",
+  "queries": [
+    "67-64-1",
+    "A1978",
+    "J65834",
+    "sodium chloride"
+  ],
+  "vendors": [
+    "sigma",
+    "thermofisher"
+  ],
+  "results": [
+    {
+      "vendorId": "sigma",
+      "vendorName": "Sigma-Aldrich",
+      "query": "67-64-1",
+      "status": "success",
+      "resultCount": 5,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 5,
+      "reachableUrls": 4,
+      "elapsedMs": 3964,
+      "error": null,
+      "firstResult": {
+        "productName": "179124",
+        "catalogNumber": "179124",
+        "casNumber": "",
+        "price": null,
+        "currency": "USD",
+        "pricePer": "",
+        "availability": null,
+        "shippingTime": null,
+        "productUrl": "https://www.sigmaaldrich.com/US/en/product/sigald/179124"
+      }
+    },
+    {
+      "vendorId": "sigma",
+      "vendorName": "Sigma-Aldrich",
+      "query": "A1978",
+      "status": "success",
+      "resultCount": 2,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 2,
+      "reachableUrls": 2,
+      "elapsedMs": 2350,
+      "error": null,
+      "firstResult": {
+        "productName": "A1978",
+        "catalogNumber": "a1978",
+        "casNumber": "",
+        "price": null,
+        "currency": "USD",
+        "pricePer": "",
+        "availability": null,
+        "shippingTime": null,
+        "productUrl": "https://www.sigmaaldrich.com/US/en/product/sigma/a1978"
+      }
+    },
+    {
+      "vendorId": "sigma",
+      "vendorName": "Sigma-Aldrich",
+      "query": "J65834",
+      "status": "success",
+      "resultCount": 1,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 1,
+      "reachableUrls": 1,
+      "elapsedMs": 3216,
+      "error": null,
+      "firstResult": {
+        "productName": "565834",
+        "catalogNumber": "565834",
+        "casNumber": "",
+        "price": null,
+        "currency": "USD",
+        "pricePer": "",
+        "availability": null,
+        "shippingTime": null,
+        "productUrl": "https://www.sigmaaldrich.com/US/en/product/mm/565834"
+      }
+    },
+    {
+      "vendorId": "sigma",
+      "vendorName": "Sigma-Aldrich",
+      "query": "sodium chloride",
+      "status": "success",
+      "resultCount": 5,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 5,
+      "reachableUrls": 5,
+      "elapsedMs": 4045,
+      "error": null,
+      "firstResult": {
+        "productName": "S9888",
+        "catalogNumber": "s9888",
+        "casNumber": "",
+        "price": null,
+        "currency": "USD",
+        "pricePer": "",
+        "availability": null,
+        "shippingTime": null,
+        "productUrl": "https://www.sigmaaldrich.com/US/en/product/sigald/s9888"
+      }
+    },
+    {
+      "vendorId": "thermofisher",
+      "vendorName": "Thermo Fisher",
+      "query": "67-64-1",
+      "status": "no_results",
+      "resultCount": 0,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 0,
+      "reachableUrls": 0,
+      "elapsedMs": 345,
+      "error": null,
+      "firstResult": null
+    },
+    {
+      "vendorId": "thermofisher",
+      "vendorName": "Thermo Fisher",
+      "query": "A1978",
+      "status": "no_results",
+      "resultCount": 0,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 0,
+      "reachableUrls": 0,
+      "elapsedMs": 348,
+      "error": null,
+      "firstResult": null
+    },
+    {
+      "vendorId": "thermofisher",
+      "vendorName": "Thermo Fisher",
+      "query": "J65834",
+      "status": "no_results",
+      "resultCount": 0,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 0,
+      "reachableUrls": 0,
+      "elapsedMs": 494,
+      "error": null,
+      "firstResult": null
+    },
+    {
+      "vendorId": "thermofisher",
+      "vendorName": "Thermo Fisher",
+      "query": "sodium chloride",
+      "status": "no_results",
+      "resultCount": 0,
+      "withPrice": 0,
+      "withShipping": 0,
+      "withValidUrl": 0,
+      "reachableUrls": 0,
+      "elapsedMs": 484,
+      "error": null,
+      "firstResult": null
+    }
+  ]
+}
